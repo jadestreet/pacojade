@@ -1,0 +1,17 @@
+results/figures/data_gt_laptop_computer.png
+results/figures/pred_vs_gt_laptop_computer.png
+results/figures/data_gt_chair.png
+results/figures/pred_vs_gt_chair.png
+results/figures/data_gt_bottle.png
+results/figures/pred_vs_gt_bottle.png
+results/figures/data_gt_car_(automobile).png
+results/figures/pred_vs_gt_car_(automobile).png
+results/figures/data_gt_mug.png
+results/figures/pred_vs_gt_mug.png
+results/figures/boundary_chair_leg_159269.png
+results/figures/fpn_chair_leg_159269.png
+results/figures/boundary_chair_stretcher_159269.png
+results/figures/fpn_chair_stretcher_159269.png
+results/figures/boundary_chair_arm_159269.png
+results/figures/fpn_chair_arm_159269.png
+results/figures/hist_iou_bf.png

@@ -24,6 +24,12 @@ _PREDEFINED_PACO = {
         os.path.join(_PACO_ANNOTATION_ROOT, "paco_lvis_v1_val.json"),
         _COCO_IMAGE_ROOT,
     ),
+    # Minimal 5-category subset (chair, bottle, mug, laptop, car) of the val
+    # split, built by tools/make_mini_subset.py for fast local experiments.
+    "paco_lvis_v1_val_mini": (
+        os.path.join(_PACO_ANNOTATION_ROOT, "paco_lvis_v1_val_mini.json"),
+        _COCO_IMAGE_ROOT,
+    ),
     "paco_lvis_v1_test": (
         os.path.join(_PACO_ANNOTATION_ROOT, "paco_lvis_v1_test.json"),
         _COCO_IMAGE_ROOT,
