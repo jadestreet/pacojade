@@ -1,0 +1,5 @@
+method,split,AP_obj,AP_opart,segm_AP,part_AP,metric_source,output_json
+official_r50_fpn_model_zoo,PACO-LVIS,34.7,15.8,,15.8,https://github.com/facebookresearch/paco/blob/main/docs/MODEL_ZOO.md,
+official_r50_fpn_paper_table2_mask,PACO-LVIS,31.5,12.3,,12.3,https://openaccess.thecvf.com/content/CVPR2023/papers/Ramanathan_PACO_Parts_and_Attributes_of_Common_Objects_CVPR_2023_paper.pdf,
+local_r50_fpn_val,paco_lvis_v1_val,35.274360866100096,14.450077185187713,18.24958581784875,14.450077185187713,/xuanwu-tank/north/jade/Paco/output/r50_full_val_20260601_200407/phase2_ap.json,/xuanwu-tank/north/jade/Paco/output/r50_full_val_20260601_200407/lvis_instances_results.json
+snake_refined_val,paco_lvis_v1_val,34.16138042642012,13.623617698993762,17.339597630871168,13.623617698993762,/xuanwu-tank/north/jade/Paco/output/snake_fpn_full_20260601_200407/refined_ap.json,/xuanwu-tank/north/jade/Paco/output/snake_fpn_full_20260601_200407/refined_val/lvis_instances_results.json

@@ -1,0 +1,10 @@
+stage,start_time,end_time,duration_seconds,status,log
+train_part_prediction_merge,2026-06-02T00:46:54-07:00,2026-06-02T01:07:21-07:00,1227.0,completed,/home/jade1st/pj/pacojade-rory/results/experiment_logs/run_20260601_200407/train_part_prediction_merge_stdout_stderr.log
+val_prediction_dump,2026-06-02T01:07:21-07:00,2026-06-02T01:37:10-07:00,1789.0,completed,/home/jade1st/pj/pacojade-rory/results/experiment_logs/run_20260601_200407/detector_val_stdout_stderr.log
+snake_training,2026-06-02T01:37:11-07:00,2026-06-02T02:44:14-07:00,4023.0,failed,/home/jade1st/pj/pacojade-rory/results/experiment_logs/run_20260601_200407/snake_training_stdout_stderr.log
+val_refinement,2026-06-02T12:56:45-07:00,2026-06-02T13:41:11-07:00,2666.0,failed,/home/jade1st/pj/pacojade-rory/results/experiment_logs/run_20260601_200407/val_refinement_stdout_stderr.log
+refined_ap_eval,2026-06-02T13:49:36-07:00,2026-06-02T13:51:38-07:00,122.0,failed,/home/jade1st/pj/pacojade-rory/results/experiment_logs/run_20260601_200407/refined_ap_stdout_stderr.log
+refined_ap_eval,2026-06-02T13:55:49-07:00,2026-06-02T13:57:43-07:00,114.0,completed,/home/jade1st/pj/pacojade-rory/results/experiment_logs/run_20260601_200407/refined_ap_stdout_stderr.log
+baseline_boundary_eval,2026-06-02T13:57:43-07:00,2026-06-02T14:04:57-07:00,434.0,completed,/home/jade1st/pj/pacojade-rory/results/experiment_logs/run_20260601_200407/baseline_boundary_stdout_stderr.log
+refined_boundary_eval,2026-06-02T14:04:58-07:00,2026-06-02T14:12:01-07:00,423.0,completed,/home/jade1st/pj/pacojade-rory/results/experiment_logs/run_20260601_200407/refined_boundary_stdout_stderr.log
+plot_artifact_generation,2026-06-02T14:12:02-07:00,2026-06-02T14:12:04-07:00,2.0,completed,/home/jade1st/pj/pacojade-rory/results/experiment_logs/run_20260601_200407/plot_artifact_generation_stdout_stderr.log
